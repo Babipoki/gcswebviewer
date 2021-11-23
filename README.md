@@ -5,7 +5,7 @@ Select your character and it will sow up just like if you exported it to HTML fr
 
 [GCS Sheet Web Viewer](https://tsuzumic.github.io/gcswebviewer/)
 
-GCS is a sharacter sheet editor for the roleplaying system GURPS.
+GCS is a character sheet editor for the roleplaying system GURPS.
 
 ## Learn More
 
